@@ -19,4 +19,4 @@ Adding new behaviors via subclassing seems to comply with the open-closed princi
 
 ## 3. Decorator Pattern
 
-![alt text](https://github.com/vudph/DecoratorPattern/blob/master/resources/WithDecorator.png "With Decorator")
+![alt text](https://github.com/vudph/DecoratorPattern/blob/master/resources/ClassDiagramDecorator.png "With Decorator")
